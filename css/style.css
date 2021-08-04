@@ -1,0 +1,25 @@
+body{
+	font-family: sans-serif;
+}
+.container{
+	max-width: 1110px;
+}
+.text-krug{
+  position: relative;
+  left: 120px;
+  width: 40px;
+  height: 40px;
+  background: lightblue;
+  margin: 10px;
+  border-radius: 50%;
+  text-align: center;
+}
+.footer{
+   position: absolute;
+   left: 0;
+   width: 100%;
+   background-color:#CACACA;
+   color: white;
+   text-align: center;
+   color:#F2F8FA;
+}

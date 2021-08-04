@@ -1,0 +1,19 @@
+body{
+	background-color: #B0B0B0;
+}
+.container{
+	color: white;
+	border-radius: 10px;
+	background-color: #B0B0B0;
+	margin: 2%;
+	box-shadow: 0 0 1px 3px black;
+	padding: 40px 10px;
+}
+.text{
+	text-decoration: none;
+}
+.photo{
+	position: relative;
+	left: 60px;
+	top: 50px;
+}
